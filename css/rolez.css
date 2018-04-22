@@ -1,0 +1,15 @@
+.center{
+    margin:0 auto;
+    padding-top: 80px;  
+}
+.botom0{
+    bottom: 0;
+}
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.header {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.container{
+    min-height: 603px !important;
+}
